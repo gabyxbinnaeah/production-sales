@@ -1,7 +1,7 @@
 body{
     background-image: url(https://images.unsplash.com/photo-1603555759292-8bd97148c31e?ixid=MXwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHw%3D&ixlib=rb-1.2.1&auto=format&fit=crop&w=1868&q=80);
     background-repeat: no-repeat;
-    ima
+    
 }
 .head{
     color: whitesmoke;
@@ -13,6 +13,10 @@ body{
     color: rgb(39, 32, 32);
     padding-top: 5px;
     
+}
+.report{
+    width: 100%;
+    color: black;
 }
 .milk{
     display: flex;
