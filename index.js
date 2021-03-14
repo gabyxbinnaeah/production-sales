@@ -1,8 +1,8 @@
 var input = [];
-input["A"] = 510;
-input["B"] = 308;
-input["C"] = 486;
-input["D"] = 572;
+input["A"] = document.getElementById("shade_A").value;
+input["B"] = document.documentgetElementById("shade_B").value;
+input["C"] = document.getElementById("shade_C").value;
+input["D"] =document.getElementById("shade_D").value;
 
 var total = 0;
 function totalProduction(){
